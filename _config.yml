@@ -4,4 +4,3 @@ defaults:
       type: "pages"
     values:
       css: "/assets/css/custom.css"
-   
