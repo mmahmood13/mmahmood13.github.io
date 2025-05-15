@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="position: relative; text-align: center; color: white;">
-  <img src="/assets/images/welcome-bg.jpg" alt="Welcome Image" style="width: 100%; height: auto; max-height: 90vh; object-fit: cover; filter: brightness(70%);">
+  <img src="/assets/images/welcome.jpg" alt="Welcome Image" style="width: 100%; height: auto; max-height: 90vh; object-fit: cover; filter: brightness(70%);">
 
   <h1 style="
       position: absolute;
