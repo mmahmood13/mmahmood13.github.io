@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ""
+subtitle: "Aspiring researcher, writer, and photographer."
 permalink: /
 ---
 
@@ -18,3 +19,4 @@ permalink: /
       font-family: Arial, sans-serif;
   ">Welcome</h1>
 </div>
+Welcome to my personal website! Here you'll find my latest blog posts, photography, research, and more.
