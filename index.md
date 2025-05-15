@@ -1,13 +1,10 @@
 ---
 layout: splash
 title: ""
+permalink: /
 header:
-  overlay_image: /assets/images/welcome.jpg
-  overlay_filter: 0.3
+  overlay_image: /assets/images/welcome-bg.jpg  # make sure this file exists!
+  overlay_filter: 0.2
   overlay_text: "Welcome"
-  actions:
-    - label: "Explore More"
-      url: "/about/"
+  overlay_color: "#000"
 ---
-
-Welcome to my personal website! Here you'll find my latest blog posts, photography, research, and more.
