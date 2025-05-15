@@ -1,15 +1,17 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
+  - title: "Education"
+    url: /education/
+  - title: "Research"
+    url: /research/
   - title: "Blog"
     url: /year-archive/
   - title: "Photography"
     url: /photography/
-  - title: "Research"
-    url: /research/
-  - title: "Education"
-    url: /education/
-  - title: "Contact"
-    url: /contact/
-  - title: "About"
-    url: /about/
+ 
+  
+  
+  
