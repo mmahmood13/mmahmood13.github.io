@@ -1,20 +1,12 @@
-.dark-mode {
-  background-color: #1c1c1c;
-  color: #e0e0e0;
-}
-
-.dark-mode a {
-  color: #80d8ff;
-}
-
-.dark-mode img {
-  filter: brightness(0.8);
-}
-
-/* Animate images and icons */
-img:hover,
-a:hover,
-button:hover {
-  transform: scale(1.05);
-  transition: transform 0.3s ease;
+/* Make splash header taller (full screen height) */
+.page__hero--overlay {
+  min-height: 100vh !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding: 0;
+  margin: 0;
 }
