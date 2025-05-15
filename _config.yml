@@ -12,3 +12,5 @@ author:
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+custom_css:
+  - /assets/css/custom.css
