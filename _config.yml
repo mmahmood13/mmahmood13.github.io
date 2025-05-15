@@ -1,16 +1,6 @@
-title: "Mobashshir Mahmood"
-description: "Personal website and portfolio"
-url: "https://mmahmood13.github.io"
-baseurl: ""  # this stays empty for user.github.io sites
-
-author:
-  name: "Mobashshir Mahmood"
-  avatar: "profile2.jpg"  # Make sure this matches your uploaded file
-  bio: "Aspiring researcher, writer, and photographer."
-  email: "mmahmood.ure@gmail.com"  # Replace with your actual email
-
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-custom_css:
-  - /assets/css/custom.css
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/custom.css"
