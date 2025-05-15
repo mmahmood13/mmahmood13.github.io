@@ -1,24 +1,13 @@
 ---
-layout: single
+layout: splash
 title: ""
-permalink: /
-classes: wide
+header:
+  overlay_image: /assets/images/welcome.jpg
+  overlay_filter: 0.3
+  overlay_text: "Welcome"
+  actions:
+    - label: "Explore More"
+      url: "/about/"
 ---
 
-<div style="position: relative; text-align: center; color: white;">
-
-  <img src="/assets/images/welcome.jpg" alt="Welcome Banner" style="width: 100%; height: auto; display: block; filter: brightness(70%);">
-
-  <h1 style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 4rem;
-    font-weight: bold;
-    font-family: sans-serif;
-  ">
-    Welcome
-  </h1>
-
-</div>
+Welcome to my personal website! Here you'll find my latest blog posts, photography, research, and more.
