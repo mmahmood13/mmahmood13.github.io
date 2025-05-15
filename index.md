@@ -7,7 +7,7 @@ classes: wide
 
 <div style="position: relative; text-align: center; color: white;">
 
-  <img src="/assets/images/banner.jpg" alt="Welcome Banner" style="width: 100%; height: auto; display: block; filter: brightness(70%);">
+  <img src="/assets/images/welcome.jpg" alt="Welcome Banner" style="width: 100%; height: auto; display: block; filter: brightness(70%);">
 
   <h1 style="
     position: absolute;
