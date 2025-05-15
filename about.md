@@ -54,9 +54,8 @@ classes: wide
     <div class="social-icons">
       <a href="mailto:your.email@example.com" title="Email"><i class="fas fa-envelope"></i></a>
       <a href="https://linkedin.com/in/yourprofile" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="/photography/" title="Photography"><i class="fas fa-camera-retro"></i></a>
-      <a href="/year-archive/" title="Blog"><i class="fas fa-blog"></i></a>
-    </div>
+      
+     </div>
   </div>
 
 </div>
