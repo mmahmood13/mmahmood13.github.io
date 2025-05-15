@@ -1,0 +1,15 @@
+/* 🌙 Dark Mode Styles */
+.dark-mode {
+  background-color: #1c1c1c;
+  color: #e0e0e0;
+}
+
+/* Change link color in dark mode */
+.dark-mode a {
+  color: #80d8ff;
+}
+
+/* Slightly darken images in dark mode */
+.dark-mode img {
+  filter: brightness(0.8);
+}
