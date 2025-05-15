@@ -13,3 +13,10 @@
 .dark-mode img {
   filter: brightness(0.8);
 }
+/* Animate images and icons */
+img:hover,
+a:hover,
+button:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
