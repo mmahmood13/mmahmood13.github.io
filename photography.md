@@ -6,5 +6,5 @@ permalink: /photography/
 
 Here are some of my favorite photos!
 
-![IITI Library](assets/images/sample.jpg)
-![hooghly river](.jpg)
+![IITI Library](2nd.jpg)
+![hooghly river](istimage.jpg)
