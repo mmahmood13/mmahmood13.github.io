@@ -1,4 +1,4 @@
-/* Make splash header taller (full screen height) */
+/* Make splash header full height */
 .page__hero--overlay {
   min-height: 100vh !important;
   display: flex;
