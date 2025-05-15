@@ -2,43 +2,23 @@
 layout: single
 title: ""
 permalink: /
+classes: wide
 ---
 
-<style>
-  .welcome-banner {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
-  }
+<div style="position: relative; text-align: center; color: white;">
 
-  .welcome-banner img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: brightness(70%);
-  }
+  <img src="/assets/images/banner.jpg" alt="Welcome Banner" style="width: 100%; height: auto; display: block; filter: brightness(70%);">
 
-  .welcome-text {
+  <h1 style="
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
     font-size: 4rem;
     font-weight: bold;
-    text-align: center;
-    font-family: Arial, sans-serif;
-  }
+    font-family: sans-serif;
+  ">
+    Welcome
+  </h1>
 
-  @media (max-width: 768px) {
-    .welcome-text {
-      font-size: 2.5rem;
-    }
-  }
-</style>
-
-<div class="welcome-banner">
-  <img src="/assets/images/welcome.jpg" alt="Welcome Image">
-  <div class="welcome-text">Welcome</div>
 </div>
