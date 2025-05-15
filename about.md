@@ -12,27 +12,6 @@ Hi! I’m **Mobashshir Mahmood**, an aspiring **researcher**, **writer**, and **
 
 Welcome to my personal website — a place where I share my thoughts, academic interests, and favorite photos.
 
----
-
-## 🔬 Research Interests
-
-- Quantum Cosmology
-- General Relativity
-- Early Universe Physics
-
----
-
-## 🎓 Education
-
-- B.S. — Indian Institute of Technology Indore *(expected 202X)*
-- Courses: Physics, Cosmology, Sociology
-
----
-
-## 📸 Photography
-
-I enjoy capturing the beauty of the world around me.  
-Check out my [Photography](/photography/) page!
 
 ---
 
