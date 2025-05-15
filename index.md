@@ -1,9 +1,7 @@
 ---
 layout: home
 title: "Mobashshir Mahmood"
-subtitle: "Aspiring researcher, writer, and photographer."
+subtitle: "Welcome to my personal website"
 ---
 
-Welcome to my personal website!  
-Here you'll find my blog posts, photography, research, and more.
-
+Hi! I'm Mobashshir Mahmood — a student, researcher, and photographer. This is my personal website built using Jekyll and GitHub Pages.
