@@ -6,5 +6,5 @@ permalink: /photography/
 
 Here are some of my favorite photos:
 
-![Sunset](assets/images/sunset.jpg)  
-![Forest](assets/images/forest.jpg)
+![Hooghly River](istimage.jpg)  
+![IITI Library](2nd.jpg)
