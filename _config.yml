@@ -5,7 +5,7 @@ baseurl: ""  # this stays empty for user.github.io sites
 
 author:
   name: "Mobashshir Mahmood"
-  avatar: "/assets/images/profile.jpg"  # Make sure this matches your uploaded file
+  avatar: "profile2.jpg"  # Make sure this matches your uploaded file
   bio: "Aspiring researcher, writer, and photographer."
   email: "mmahmood.ure@gmail.com"  # Replace with your actual email
 
