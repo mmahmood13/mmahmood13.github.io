@@ -1,9 +1,10 @@
 ---
 layout: splash
-title: "Welcome"
+title: ""
 permalink: /
 header:
   overlay_image: /assets/images/welcome.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.2
+  overlay_text: "Welcome"
   overlay_color: "#000"
 ---
