@@ -39,6 +39,6 @@ permalink: /
 </style>
 
 <div class="welcome-banner">
-  <img src="/assets/images/welcome.jpg" alt="Welcome Image">
+  <img src="/assets/images/welcome-bg.jpg" alt="Welcome Image">
   <div class="welcome-text">Welcome</div>
 </div>
