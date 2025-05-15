@@ -3,5 +3,5 @@ defaults:
       path: ""
       type: "pages"
     values:
-      css: "assets/css/custom.css"
+      css: "/assets/css/custom.css"
    
