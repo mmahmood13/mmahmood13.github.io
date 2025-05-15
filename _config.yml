@@ -10,6 +10,5 @@ author:
   email: "mmahmood.ure@gmail.com"  # Replace with your actual email
 
 remote_theme: "mmistakes/minimal-mistakes"
-
 plugins:
   - jekyll-include-cache
