@@ -1,25 +1,44 @@
 ---
 layout: single
 title: ""
-subtitle: "Aspiring researcher, writer, and photographer."
 permalink: /
 ---
 
-<div style="position: relative; text-align: center; color: white;">
-  <img src="/assets/images/welcome.jpg" alt="welcome Image" style="width: 100%; height: auto; max-height: 90vh; object-fit: cover; filter: brightness(70%);">
+<style>
+  .welcome-banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
 
-  <h1 style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 3rem;
-      font-weight: bold;
-      color: white;
-      font-family: Arial, sans-serif;
-  ">Welcome</h1>
+  .welcome-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(70%);
+  }
+
+  .welcome-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+
+  @media (max-width: 768px) {
+    .welcome-text {
+      font-size: 2.5rem;
+    }
+  }
+</style>
+
+<div class="welcome-banner">
+  <img src="/assets/images/welcome.jpg" alt="Welcome Image">
+  <div class="welcome-text">Welcome</div>
 </div>
-
-
-
-Welcome to my personal website! Here you'll find my latest blog posts, photography, research, and more.
